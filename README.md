@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Dev Projects<br>🤝 I’m looking for help with Open Source Contribution<br>🌱 I’m currently learning Back End and System design<br>💬 Ask me about Visual Design<br>⚡ Fun fact
+🔭 I’m currently working on Web Dev Projects<br>🤝 I’m looking for help with Open Source Contribution<br>🌱 I’m currently learning Back End and System design<br>💬 Ask me about Visual Design<br>
 
 
 ## 🌐 Socials:
